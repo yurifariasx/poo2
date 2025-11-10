@@ -37,3 +37,5 @@ O projeto simula o cadastro de diferentes tipos de veículos (`Carro` e `Moto`),
 ---
 
 ### 📋 Saída Esperada
+
+Informações do Carro: Marca: Toyota, Modelo: Corolla, Ano: 2022, Número de Portas: 4 Informações da Moto: Marca: Honda, Modelo: CBR 600, Ano: 2023, Cilindrada: 600
